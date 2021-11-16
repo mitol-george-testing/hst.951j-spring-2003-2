@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4bf88497-1d93-d26e-cd53-b08770c14b56",
+      "780f36c7-ef90-c0fc-309f-e510ee19f14a",
+      "63a00f76-105c-6091-d09d-83837b079c6c",
+      "08cf33ff-2298-88a9-813e-d409bd290538"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Medical Decision Support",
+  "course_description": "This course presents the main concepts of decision analysis, artificial intelligence and predictive model construction and evaluation in the specific context of medical applications. It emphasizes the advantages and disadvantages of using these methods in real-world systems and provides hands-on experience. Its technical focus is on decision support, knowledge-based systems (qualitative and quantitative), learning systems (including logistic regression, classification trees, neural networks, rough sets), and techniques to evaluate the performance of such systems. It reviews computer-based diagnosis, planning and monitoring of therapeutic interventions. It also discusses implemented medical applications and the software tools used in their construction. Students produce a final project using the machine learning methods learned in the course, based on actual clinical data.\n\n##### {{< anchor \"lecturers\" >}}{{< /anchor >}}Lecturers\n\nProf. Stephan Dreiseitl\n\nProf. Ju Jan Kim\n\nProf. Bill Long\n\nProf. Marco Ramoni\n\nProf. Fred Resnic\n\nProf. David Wypij\n",
+  "department_numbers": [
+    "HST",
+    "6"
+  ],
+  "extra_course_numbers": "6.873J",
+  "primary_course_number": "HST.951J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
